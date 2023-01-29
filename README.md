@@ -1,3 +1,11 @@
+# Description
+Simple camera application with only 2 options, SNAP! and CLOSE! 
+
+
+[Pbblished project link](https://klamkov.github.io/camera-app/)
+
+
+___
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
